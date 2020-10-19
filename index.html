@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<!---> 
-WELCOME! This is the main page, so the only things that need to be changed are filling in the name of your department and major. Please see line 38.
-Additionally, you could change the Pitt logo that appears in the top right to another image of your choice. Please see 33.
-<--->
+
 <head>
 
   <meta charset="utf-8">
@@ -14,14 +11,17 @@ Additionally, you could change the Pitt logo that appears in the top right to an
   <title>Virtual Advisor</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor_home_page_only/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="css/scrolling-nav.css" rel="stylesheet">
-  
+  <link href="css_home_page_only/business-frontpage.css" rel="stylesheet">
+
 </head>
 
-<body id="page-top">
+<body>
+
+  <!-- Navigation -->
+    <body id="page-top">
 
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
@@ -43,39 +43,103 @@ SEE THE README FOR INFORMATION ON HOW TO UPLOAD YOUR NEW IMAGE TO GITHUB-->
       </button>
     </div>
   </nav>
-
-  <section id="about" style="padding-top:150px">
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-lg-8 mx-auto">
-          <h2><a href="requirements.html">Major Requirements</a></h2>
+<!--  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">DEPARTMENT - MAJOR</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+     
+    </div>
+  </nav>
+-->
+  <!-- Header -->
+  <header class="bg-primary py-5 mb-5">
+    <div class="container h-100">
+      <div class="row h-100 align-items-center">
+        <div class="col-lg-12">
+          <h1 class="display-4 text-white mt-5 mb-2">Virtual Advisor - Your Major Here</h1>
+          <p class="lead mb-5 text-white-50">Enter a description about your department and major here.</p>
         </div>
       </div>
     </div>
-  </section>
+  </header>
 
-  <section id="services" class="bg-light">
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-lg-8 mx-auto">
-          <h2><a href="recommended.html">Recommended Courses</a></h2>
+  <!-- Page Content -->
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-8 mb-5">
+        <h2>What is a virtual advisor?</h2>
+        <hr>
+        <p>The virtual advisor is intended to provide detailed information about your major and department. This included degree requirements, recommended courses, and more. It should serve as a first resource to answer any questions you have about planning your courses.</p>
+        
+      </div>
+      <div class="col-md-4 mb-5">
+        <h2>Contact Us</h2>
+        <hr>
+        <address>
+          <strong>Head Advisor's Name</strong>
+          <br>Address Line 1
+          <br>Address Line 2
+          <br>
+        </address>
+        <address>
+          <abbr title="Phone">P:</abbr>
+          (123) 456-7890
+          <br>
+          <abbr title="Email">E:</abbr>
+          <a href="mailto:#">name@example.com</a>
+        </address>
+      </div>
+    </div>
+    <!-- /.row -->
+
+    <div class="row">
+      <div class="col-md-4 mb-5">
+        <div class="card h-100">
+          <img class="card-img-top" src="https://placehold.it/300x200" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Major Requirements</h4>
+            <p class="card-text">This page includes a detailed list of the required courses to earn a (MAJOR) degree.</p>
+          </div>
+          <div class="card-footer">
+            <a href="requirements.html" class="btn btn-primary">Let's Go!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 mb-5">
+        <div class="card h-100">
+          <img class="card-img-top" src="https://placehold.it/300x200" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Recommended Courses</h4>
+            <p class="card-text">This page includes a comprehenive list of the courses offered in the (DEPARTMENT), with information such as course number, description, and professor.</p>
+          </div>
+          <div class="card-footer">
+            <a href="recommended.html" class="btn btn-primary">Let's Go!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 mb-5">
+        <div class="card h-100">
+          <img class="card-img-top" src="https://placehold.it/300x200" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Sample Schedule</h4>
+            <p class="card-text">This page includes a schedule that should serve as an example - one way to meet the degree requirements and structure your courses.</p>
+          </div>
+          <div class="card-footer">
+            <a href="sampleschedule.html" class="btn btn-primary">Let's Go!</a>
+          </div>
         </div>
       </div>
     </div>
-  </section>
+    <!-- /.row -->
 
-  <section id="contact">
-    <div class="container text-center">
-      <div class="row">
-        <div class="col-lg-8 mx-auto">
-          <h2><a href="sampleschedule.html">Sample Schedule</a></h2>
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
+  <!-- /.container -->
 
   <!-- Footer -->
-  <footer class="py-5 bg-dark" style="padding:30px 0px">
+  <footer class="py-5 bg-dark">
     <div class="container">
       <p class="m-0 text-center text-white">Copyright &copy; University of Pittsburgh 2020</p>
     </div>
@@ -85,12 +149,6 @@ SEE THE README FOR INFORMATION ON HOW TO UPLOAD YOUR NEW IMAGE TO GITHUB-->
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Plugin JavaScript -->
-  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
-  <!-- Custom JavaScript for this theme -->
-  <script src="js/scrolling-nav.js"></script>
 
 </body>
 
