@@ -1,11 +1,11 @@
 # Virtual Advisor
 
 ### Changes to Landing Page (index.html)
-Step 1: Click on index.html
+#### Step 1: Click on index.html
 
-Step 2: Click the pencil icon in the top right of the screen.
+#### Step 2: Click the pencil icon in the top right of the screen.
 
-Step 3: Make edits to personalize the page on the line numbers listed below.
+#### Step 3: Make edits to personalize the page on the line numbers listed below.
 
 Change #1 - Line 33 - If you wish to change the pitt logo that appears in the top left of the screen, change the text within the line that currently says "images/1200px-                 University_of_Pittsburgh_seal.svg.png" to "images/file_name.png" Upload the image of your choice to the images folder on github. See the tutorial video for                     detailed instructions on how to do this.
     
@@ -25,6 +25,18 @@ Change #8 - Line 96 - To change the contact persons email address, replace the t
     
 Change #9 - Line 109 - To change the photo that appears in the "Major Requirements" Box, change the text within the line that currently says "ihttps://placehold.it/300x200" to "images/file_name.png" Upload the image of your choice to the images folder on github. See the tutorial video for detailed instructions on how to do this.
     
-Change #10 - Line 114 - To change the major listed in the description of the "Major Requirements" page description, replace the text that currently reads "(MAJOR)".
+Change #10 - Line 114 - To change the major listed in the description of the "Major Requirements" page, replace the text that currently reads "(MAJOR)".
     
 Change #11 - Line 126 - To change the photo that appears in the "Recommended Courses" Box, change the text within the line that currently says           "ihttps://placehold.it/300x200" to "images/file_name.png" Upload the image of your choice to the images folder on github. See the tutorial video for detailed instructions on how to do this.
+
+Change #12 - Line 131 - To change the departmnet listed in the description of the "Recommended Courses" page, replace the text that currently reads "DEPARTMENT".
+
+Change #13 - Line 143 - To change the photo that appears in the "Sample Schedule" Box, change the text within the line that currently says           "ihttps://placehold.it/300x200" to "images/file_name.png" Upload the image of your choice to the images folder on github. See the tutorial video for detailed instructions on how to do this.
+
+#### Step 4: Click the green "commit changes" button on the bottom of the screen.
+
+### Changes to Major Requirements Page (requirements.html)
+
+### Changes to Recommended Courses Page (recommended.html)
+
+### Changes to Sample Schedule Page (sampleschedule.html)
