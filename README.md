@@ -1,5 +1,8 @@
 # Virtual Advisor
 
+### How to create a page of your own (fork this page)
+#### Step 1:...
+
 ### Changes to Landing Page (index.html)
 #### Step 1: Click on index.html
 
