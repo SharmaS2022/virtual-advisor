@@ -49,36 +49,36 @@ Change #13 - Line 143 - To change the photo that appears in the "Sample Schedule
 
 #### Step 3: Make edits to personalize the page on the line numbers listed below.
 
-Change #1 - Line 47 - To change the major listed under "Sample Schedule", replace the text that currently reads (Your Major Here).
+Change #1 - Line 48 - To change the major listed under "Sample Schedule", replace the text that currently reads (Your Major Here).
 
-Change #2 - Line 63 - Repeat this process for lines 64-68. To change the classes listed for the freshman fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
+Change #2 - Line 64 - Repeat this process for lines 64-68. To change the classes listed for the freshman fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
 
-Change #3 - Line 75 - Repeat this process for lines 76-80. Change the number of credits to that of the classes entered in Change #2, in the same order.
+Change #3 - Line 76 - Repeat this process for lines 76-80. Change the number of credits to that of the classes entered in Change #2, in the same order.
 
-Change #4 - Line 87 - Repeat this process for lines 88-92. To change the classes listed for the freshman spring semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
+Change #4 - Line 88 - Repeat this process for lines 88-92. To change the classes listed for the freshman spring semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
 
-Change #5 - Line 99 - Repeat this process for lines 100-104. Change the number of credits to that of the classes entered in Change #4, in the same order.
+Change #5 - Line 100 - Repeat this process for lines 100-104. Change the number of credits to that of the classes entered in Change #4, in the same order.
 
-Change #6 - Line 124 - Repeat this process for lines 125-129. To change the classes listed for the sophomore fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
+Change #6 - Line 125 - Repeat this process for lines 125-129. To change the classes listed for the sophomore fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
 
-Change #7 - Line 136 - Repeat this process for lines 137-141. Change the number of credits to that of the classes entered in Change #6, in the same order.
+Change #7 - Line 137 - Repeat this process for lines 137-141. Change the number of credits to that of the classes entered in Change #6, in the same order.
 
-Change #8 - Line 148 - Repeat this process for lines 149-153. To change the classes listed for the sophomore spring semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
+Change #8 - Line 149 - Repeat this process for lines 149-153. To change the classes listed for the sophomore spring semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
 
-Change #9 - Line 160 - Repeat this process for lines 161-165. Change the number of credits to that of the classes entered in Change #8, in the same order.
+Change #9 - Line 161 - Repeat this process for lines 161-165. Change the number of credits to that of the classes entered in Change #8, in the same order.
 
-Change #10 - Line 185 - Repeat this process for lines 186-190. To change the classes listed for the junior fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
+Change #10 - Line 186 - Repeat this process for lines 186-190. To change the classes listed for the junior fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
 
-Change #11 - Line 197 - Repeat this process for lines 198-202. Change the number of credits to that of the classes entered in Change #10, in the same order.
+Change #11 - Line 198 - Repeat this process for lines 198-202. Change the number of credits to that of the classes entered in Change #10, in the same order.
 
-Change #12 - Line 209 - Repeat this process for lines 210-214. To change the classes listed for the junior spring semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
+Change #12 - Line 210 - Repeat this process for lines 210-214. To change the classes listed for the junior spring semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
 
-Change #13 - Line 221 - Repeat this process for lines 222-226. Change the number of credits to that of the classes entered in Change #12, in the same order.
+Change #13 - Line 222 - Repeat this process for lines 222-226. Change the number of credits to that of the classes entered in Change #12, in the same order.
 
-Change #14 - Line 246 - Repeat this process for lines 247-251. To change the classes listed for the senior fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
+Change #14 - Line 247 - Repeat this process for lines 247-251. To change the classes listed for the senior fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
 
-Change #15 - Line 258 - Repeat this process for lines 259-263. Change the number of credits to that of the classes entered in Change #14, in the same order.
+Change #15 - Line 259 - Repeat this process for lines 259-263. Change the number of credits to that of the classes entered in Change #14, in the same order.
 
-Change #16 - Line 270 - Repeat this process for lines 271-275. To change the classes listed for the senior spring semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
+Change #16 - Line 271 - Repeat this process for lines 271-275. To change the classes listed for the senior spring semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
 
-Change #17 - Line 282 - Repeat this process for lines 283-287. Change the number of credits to that of the classes entered in Change #16, in the same order.
+Change #17 - Line 283 - Repeat this process for lines 283-287. Change the number of credits to that of the classes entered in Change #16, in the same order.
