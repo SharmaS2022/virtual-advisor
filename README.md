@@ -48,22 +48,22 @@
 21. Line %% - Change each of the below courses
 22. Line %% - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
 ### Changes to Recommended Courses Page (recommended.html)
-1. Line %% - Change "Req. Section1" to the requirement section name (ex. "prerequisite")
-2. Line %% - Change "Req. Section1" to the requirement section name (ex. "prerequisite")
-3. Line %% - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. These changes will be for the "Prequisite" button on the page.
-4. Line %% - Change "Req. Section2" to the requirement section name (ex. "prerequisite")
-5. Line %% - Change "Req. Section2" to the requirement section name (ex. "prerequisite")
-6. Line %% - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. These changes will be for the "Core Courses" button on the page. 
-7. Line %% - Change "Req. Section3" to the requirement section name (ex. "prerequisite")
-8. Line %% - Change "Req. Section3" to the requirement section name (ex. "prerequisite")
-9. Line %% - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. These changes will be for the "1000 Level Courses" button on the page.
-10. Line %% - Change "Req. Section4" to the requirement section name (ex. "prerequisite")
-11. Line %% - Change "Req. Section4" to the requirement section name (ex. "prerequisite")
-12. Line %% - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. These changes will be for the "Electives" button on the page.
+1. Line 53 - Change "Req. Section1" to the requirement section name (ex. "prerequisite")
+2. Line 61 - Change "Req. Section1" to the requirement section name (ex. "prerequisite")
+3. Line 71 - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. These changes will be for the "Prequisite" button on the page.
+4. Line 91 - Change "Req. Section2" to the requirement section name (ex. "prerequisite")
+5. Line 98 - Change "Req. Section2" to the requirement section name (ex. "prerequisite")
+6. Line 108 - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. These changes will be for the "Core Courses" button on the page. 
+7. Line 128 - Change "Req. Section3" to the requirement section name (ex. "prerequisite")
+8. Line 135 - Change "Req. Section3" to the requirement section name (ex. "prerequisite")
+9. Line 144 - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. These changes will be for the "1000 Level Courses" button on the page.
+10. Line 164 - Change "Req. Section4" to the requirement section name (ex. "prerequisite")
+11. Line 171 - Change "Req. Section4" to the requirement section name (ex. "prerequisite")
+12. Line 180 - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. These changes will be for the "Electives" button on the page.
     * Extra Template section here if you want to extend this to more sections
-13. Line %% - Replace (MAJOR) with your respective major (ex. English and Composition) ) and remove parentheses!
-14. Line %% - Type in respective fields (ex. (ENGCMP) (0600) ) and remove parentheses. These changes will be for the buttons under "Want to Browse through Courses (MAJOR)" on the page.
-15. Line %% - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. To change course information simply delete "Insert course information here" and type your course information, make sure the text is enclosed by `<p class="lead">` and `</p>` on both sides. If you add more classes, make sure you update the "Class1" section with the new classs. 
+13. Line 245 - Replace (MAJOR) with your respective major (ex. English and Composition) ) and remove parentheses!
+14. Line 258 - Type in respective fields (ex. (ENGCMP) (0600) ) and remove parentheses. These changes will be for the buttons under "Want to Browse through Courses (MAJOR)" on the page.
+15. Line 304/305 - Type in respective fields (ex. (ENGCMP) (0600) (Introduction to Technical Writing) ) and remove parentheses. To change course information simply delete "Insert course information here" and type your course information, make sure the text is enclosed by `<p class="lead">` and `</p>` on both sides. If you add more classes, make sure you update the "Class1" section with the new classs. 
 ### Changes to Sample Schedule Page (sampleschedule.html)
 1. Line 48 - To change the major listed under "Sample Schedule", replace the text that currently reads (Your Major Here).
 2. Line 64 - Repeat this process for lines 64-68. To change the classes listed for the freshman fall semester, replace (SUBJECT) and (CLASS NUMBER) with the department tag and class number respectively and change Example Class to the name of the class class.
