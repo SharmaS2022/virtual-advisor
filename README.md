@@ -7,7 +7,11 @@
 3. Continue to the changes below
     * To edit each page, first click the html page you wish to edit and then click the pencil button at the top of the html document
     * To save your edits scroll to the bottom of the page and press the "Committ changes" button
- 4. To publish and make it available to everyone 
+ 4. To publish and make it available to everyone
+    * Go to 'settings'
+    * Scroll down to 'Github Pages'
+    * Under 'source' change the branch to 'master'
+    * Click 'save'
     
 ## Changes to Landing Page (index.html)
 1. Line 33 - If you wish to change the pitt logo that appears in the top left of the screen, change the text within the line that currently says "images/1200px-                 University_of_Pittsburgh_seal.svg.png" to "images/file_name.png" Upload the image of your choice to the images folder on github. See the tutorial video for                     detailed instructions on how to do this.  
