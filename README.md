@@ -25,28 +25,28 @@
 13. Line 143 - To change the photo that appears in the "Sample Schedule" Box, change the text within the line that currently says           "ihttps://placehold.it/300x200" to "images/file_name.png" Upload the image of your choice to the images folder on github. See the tutorial video for detailed instructions on how to do this.
 
 ### Changes to Major Requirements Page (requirements.html)
-1. Line %% - Change (Your Major Here) to your major
-2. Line %% - Change (Your Major Here) to your major and (YOUR SCHOOL HERE) to your school within the University
-3. Line %% - Change (MAJOR ACRONYM) to your major acronym (ex: BIOENG)
-4. Line %% - Change "DESCRIPTION" to a description of the category that the following classes fall under (ex. prerequisites)
-5. Line %% - Change each of the below courses
-6. Line %% - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
-7. Line %% - Change "DESCRIPTION" to a description of the category that the following classes fall under (ex. prerequisites)
-8. Line %% - Change each of the below courses
-9. Line %% - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
-10. Line %% - Change "DESCRIPTION" to a description of the category that the following classes fall under (ex. prerequisites)
-11. Line %% - Change each of the below courses
-12. Line %% - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
-13. Line %% - Replace "SCHOOL" with your school within the University of Pittsburgh
-14. Line %% - Change "CATEGORY" to a description of the category that the following classes fall under (ex. Writing-Intensive)
-15. Line %% - Change each of the below courses
-16. Line %% - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
-17. Line %% - Change "CATEGORY" to a description of the category that the following classes fall under (ex. Writing-Intensive)
-18. Line %% - Change each of the below courses
-19. Line %% - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
-20. Line %% - Change "CATEGORY" to a description of the category that the following classes fall under (ex. Writing-Intensive)
-21. Line %% - Change each of the below courses
-22. Line %% - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
+1. Line 141 - Change (Your Major Here) to your major
+2. Line 152 - Change (Your Major Here) to your major and (YOUR SCHOOL HERE) to your school within the University
+3. Line 170 - Change (MAJOR ACRONYM) to your major acronym (ex: BIOENG)
+4. Line 173 - Change "DESCRIPTION" to a description of the category that the following classes fall under (ex. prerequisites)
+5. Line 177 - Change each of the below courses
+6. Line 186 - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
+7. Line 189 - Change "DESCRIPTION" to a description of the category that the following classes fall under (ex. prerequisites)
+8. Line 193 - Change each of the below courses
+9. Line 202 - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
+10. Line 205 - Change "DESCRIPTION" to a description of the category that the following classes fall under (ex. prerequisites)
+11. Line 209 - Change each of the below courses
+12. Line 218 - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
+13. Line 242 - Replace "SCHOOL" with your school within the University of Pittsburgh
+14. Line 245 - Change "CATEGORY" to a description of the category that the following classes fall under (ex. Writing-Intensive)
+15. Line 249 - Change each of the below courses
+16. Line 258 - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
+17. Line 261 - Change "CATEGORY" to a description of the category that the following classes fall under (ex. Writing-Intensive)
+18. Line 265 - Change each of the below courses
+19. Line 274 - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
+20. Line 277 - Change "CATEGORY" to a description of the category that the following classes fall under (ex. Writing-Intensive)
+21. Line 281 - Change each of the below courses
+22. Line 290 - Change the below "EXAMPLE CLASSES" to include examples for the above requirements, or delete this line if necessary
 ### Changes to Recommended Courses Page (recommended.html)
 1. Line 53 - Change "Req. Section1" to the requirement section name (ex. "prerequisite")
 2. Line 61 - Change "Req. Section1" to the requirement section name (ex. "prerequisite")
